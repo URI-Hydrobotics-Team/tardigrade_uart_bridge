@@ -793,6 +793,17 @@
 		)
 		(uuid "22833ce0-a697-471d-883e-b9de8074b0c5")
 	)
+	(hierarchical_label "CONTROL_5V"
+		(shape input)
+		(at 130.81 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3bf4b69a-cccb-45ca-afe2-561b9f18192e")
+	)
 	(hierarchical_label "PWM_3"
 		(shape input)
 		(at 130.81 54.61 0)
@@ -837,6 +848,17 @@
 		)
 		(uuid "5966fd64-1c12-46c7-97d1-2fc7c888d3e9")
 	)
+	(hierarchical_label "CONTROL_KILL"
+		(shape input)
+		(at 130.81 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64842aa3-cac1-4e9b-b652-fbd40fdc456e")
+	)
 	(hierarchical_label "ICSP_MOSI"
 		(shape input)
 		(at 130.81 82.55 0)
@@ -848,9 +870,20 @@
 		)
 		(uuid "854882d7-8fc4-4b0e-887e-7a7b6c6f500d")
 	)
+	(hierarchical_label "PROBE_KILL"
+		(shape input)
+		(at 132.08 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "961b7317-9107-4381-8359-9847a65c9116")
+	)
 	(hierarchical_label "UART_RX"
 		(shape input)
-		(at 132.08 104.14 0)
+		(at 130.81 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -892,9 +925,20 @@
 		)
 		(uuid "ccba839c-25ab-46b4-a6a4-3352ae7dff54")
 	)
+	(hierarchical_label "CONTROL_3.3V"
+		(shape input)
+		(at 130.81 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dc58702b-b918-4eb7-928a-81daf76dec5d")
+	)
 	(hierarchical_label "UART_TX"
 		(shape input)
-		(at 132.08 100.33 0)
+		(at 130.81 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
