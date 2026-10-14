@@ -1793,7 +1793,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 30.734 84.074 90)
 			(effects
 				(font
@@ -1861,7 +1861,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 85.09 43.4848 0)
 			(effects
 				(font
@@ -2045,27 +2045,26 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5cc173b2-9fc0-40a3-9543-45e8e0c5af81")
 		(property "Reference" "Y1"
-			(at 31.7501 97.79 90)
+			(at 35.052 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "Crystal"
-			(at 29.2101 97.79 90)
+			(at 35.052 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
 			(at 30.48 93.98 0)
 			(effects
 				(font
@@ -2135,7 +2134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 67.0052 44.45 0)
 			(effects
 				(font
@@ -2421,7 +2420,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 19.812 100.584 90)
 			(effects
 				(font
@@ -2429,7 +2428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 27.6352 104.14 0)
 			(effects
 				(font
@@ -2489,7 +2488,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 39.37 100.33 90)
 			(effects
 				(font
@@ -2497,7 +2496,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 35.2552 104.14 0)
 			(effects
 				(font
