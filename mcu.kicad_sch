@@ -1310,6 +1310,26 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 58.42) (xy 127 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1366ac2c-6b14-47ab-b294-97c6d2fb4591")
+	)
+	(wire
+		(pts
+			(xy 156.21 24.13) (xy 161.29 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1affa630-b046-4e92-830b-b6520b9c7bca")
+	)
+	(wire
+		(pts
 			(xy 69.85 48.26) (xy 71.12 48.26)
 		)
 		(stroke
@@ -1317,6 +1337,26 @@
 			(type default)
 		)
 		(uuid "3aba7e1c-12fa-4c3b-873a-5eb4722024c3")
+	)
+	(wire
+		(pts
+			(xy 121.92 54.61) (xy 127 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b511d6a-047f-4dfd-be49-1f9a4e33b3f9")
+	)
+	(wire
+		(pts
+			(xy 156.21 29.21) (xy 161.29 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e4aab1a-3569-4447-a4ea-c86f3e8515bf")
 	)
 	(wire
 		(pts
@@ -1330,6 +1370,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 101.6) (xy 88.9 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465ac33c-f401-4247-a733-5262255707dd")
+	)
+	(wire
+		(pts
 			(xy 26.67 93.98) (xy 26.67 96.52)
 		)
 		(stroke
@@ -1340,6 +1390,46 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 85.09) (xy 130.81 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf7fa72-34ce-4fed-9019-40d92893bc04")
+	)
+	(wire
+		(pts
+			(xy 123.19 87.63) (xy 130.81 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff7b991-4449-465a-ba68-b7ccd2542fd1")
+	)
+	(wire
+		(pts
+			(xy 85.09 99.06) (xy 88.9 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7245636a-f8dd-4848-af02-6f58a411872d")
+	)
+	(wire
+		(pts
+			(xy 127 62.23) (xy 121.92 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "729da736-1af0-4e9e-85cc-60065def5c15")
+	)
+	(wire
+		(pts
 			(xy 71.12 44.45) (xy 77.47 44.45)
 		)
 		(stroke
@@ -1347,6 +1437,16 @@
 			(type default)
 		)
 		(uuid "73b98d29-a50c-4a03-9816-d13ab6559cb6")
+	)
+	(wire
+		(pts
+			(xy 121.92 43.18) (xy 127 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76258dda-7041-48c0-bf17-6dbbea173a66")
 	)
 	(wire
 		(pts
@@ -1390,6 +1490,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 82.55) (xy 130.81 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af01c222-9497-48b1-b4bd-eb5ccc70d012")
+	)
+	(wire
+		(pts
 			(xy 71.12 44.45) (xy 71.12 48.26)
 		)
 		(stroke
@@ -1420,6 +1530,36 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 46.99) (xy 127 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0fc78a5-0eb7-4887-8faf-273ea05714dd")
+	)
+	(wire
+		(pts
+			(xy 85.09 63.5) (xy 93.98 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7a31c48-65e9-4b64-9d94-67c745986359")
+	)
+	(wire
+		(pts
+			(xy 121.92 50.8) (xy 127 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7acdf63-231d-49d9-afe4-cdfe8e95eee1")
+	)
+	(wire
+		(pts
 			(xy 58.42 44.45) (xy 66.04 44.45)
 		)
 		(stroke
@@ -1427,6 +1567,16 @@
 			(type default)
 		)
 		(uuid "fb149f45-1b2e-4f92-b4b6-b713931d3374")
+	)
+	(label "PWM5"
+		(at 85.09 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "08f02e43-7a36-4aa3-b3bf-3852bf69643e")
 	)
 	(label "XTAL2"
 		(at 34.29 80.01 90)
@@ -1438,6 +1588,16 @@
 		)
 		(uuid "2de6445c-7bc8-446c-90db-e3c748991607")
 	)
+	(label "PWM3"
+		(at 121.92 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2f85f489-62c2-477c-8009-3cd161f7b6d9")
+	)
 	(label "XTAL2"
 		(at 85.09 73.66 0)
 		(effects
@@ -1447,6 +1607,16 @@
 			(justify left bottom)
 		)
 		(uuid "3834ef6e-5ce0-44d7-a1d9-01230ab869c7")
+	)
+	(label "PWM2"
+		(at 121.92 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3aebe78d-ed7f-4e2b-8077-623168c23d0a")
 	)
 	(label "XTAL1"
 		(at 85.09 71.12 0)
@@ -1458,6 +1628,176 @@
 		)
 		(uuid "41936627-f82e-44a2-8498-8df4f0e57cd8")
 	)
+	(label "SDA"
+		(at 85.09 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "442414d3-879b-406e-889c-4e6fd6f51934")
+	)
+	(label "PWM3"
+		(at 85.09 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4ddaf75a-0ac2-4f3f-91a6-dc1ff9e74b48")
+	)
+	(label "SCK"
+		(at 123.19 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "570f994c-a236-4cf5-aadc-d3695bf65a86")
+	)
+	(label "MOSI"
+		(at 93.98 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5851baff-980c-4006-8e1d-7d6f803e49f6")
+	)
+	(label "PWM0"
+		(at 121.92 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5a646e9b-95c8-4d47-841e-966f8f571690")
+	)
+	(label "PWM4"
+		(at 121.92 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5e9a6ba6-3c30-48e4-ad5f-bf3531b2ddb7")
+	)
+	(label "PWM1"
+		(at 85.09 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a3c2270-a459-4827-8052-ecd6fb9d0554")
+	)
+	(label "PWM2"
+		(at 85.09 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b5a66ab-0a12-45a2-901a-2bc8b906f8fb")
+	)
+	(label "MISO"
+		(at 123.19 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f34b58b-bb21-4856-9b14-10f02766c5b2")
+	)
+	(label "PWM0"
+		(at 85.09 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "75239489-dd33-48ab-9659-8ed9aff6c9b6")
+	)
+	(label "PWM4"
+		(at 85.09 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e917721-01d1-4d1b-8256-e839be0325ec")
+	)
+	(label "SCK"
+		(at 85.09 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "964f4da2-6120-4c13-8143-aa2631c2cb64")
+	)
+	(label "MOSI"
+		(at 123.19 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "af17a262-63ce-4589-b9cd-4af2958f9cfd")
+	)
+	(label "PWM1"
+		(at 121.92 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b068de00-600c-40dc-886b-17d3c14d2133")
+	)
+	(label "SDA"
+		(at 156.21 24.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bdcd1b3d-6d40-4305-aab5-ad191a2fea1c")
+	)
+	(label "PWM5"
+		(at 121.92 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c16f1659-11ba-4228-a10f-c5d231cfc89c")
+	)
+	(label "MISO"
+		(at 85.09 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb512830-2d25-4e67-a201-a31a73822d0f")
+	)
 	(label "XTAL1"
 		(at 26.67 80.01 90)
 		(effects
@@ -1467,6 +1807,26 @@
 			(justify left bottom)
 		)
 		(uuid "e318a228-4553-4525-b092-06d12fae1663")
+	)
+	(label "SCL"
+		(at 156.21 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4e1b7b3-5b78-4125-a1f2-c8aab3ff546a")
+	)
+	(label "SCL"
+		(at 85.09 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f339d62f-3e5a-476c-b1de-ffcf587f46fc")
 	)
 	(global_label "3.3V"
 		(shape input)
@@ -1492,7 +1852,7 @@
 	)
 	(hierarchical_label "I2C_SCL"
 		(shape input)
-		(at 130.81 78.74 0)
+		(at 161.29 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1525,7 +1885,7 @@
 	)
 	(hierarchical_label "PWM_3"
 		(shape input)
-		(at 130.81 54.61 0)
+		(at 127 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1536,7 +1896,7 @@
 	)
 	(hierarchical_label "PWM_2"
 		(shape input)
-		(at 130.81 50.8 0)
+		(at 127 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1547,7 +1907,7 @@
 	)
 	(hierarchical_label "PWM_5"
 		(shape input)
-		(at 130.81 62.23 0)
+		(at 127 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1613,7 +1973,7 @@
 	)
 	(hierarchical_label "UART_RX"
 		(shape input)
-		(at 130.81 109.22 0)
+		(at 88.9 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1624,7 +1984,7 @@
 	)
 	(hierarchical_label "ICSP_SCK"
 		(shape input)
-		(at 130.81 88.9 0)
+		(at 130.81 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1635,7 +1995,7 @@
 	)
 	(hierarchical_label "PWM_1"
 		(shape input)
-		(at 130.81 46.99 0)
+		(at 127 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1646,7 +2006,7 @@
 	)
 	(hierarchical_label "PWM_4"
 		(shape input)
-		(at 130.81 58.42 0)
+		(at 127 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1668,7 +2028,7 @@
 	)
 	(hierarchical_label "UART_TX"
 		(shape input)
-		(at 130.81 105.41 0)
+		(at 88.9 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1679,7 +2039,7 @@
 	)
 	(hierarchical_label "PWM_0"
 		(shape input)
-		(at 130.81 43.18 0)
+		(at 127 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1690,7 +2050,7 @@
 	)
 	(hierarchical_label "I2C_SDA"
 		(shape input)
-		(at 130.81 73.66 0)
+		(at 161.29 24.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
